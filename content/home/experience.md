@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Professional Highlights"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,27 +19,27 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Engineer"
+  company = "Amazon"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  location = "Seattle"
+  date_start = "2018-06-01"
+  date_end = "2018-09-01"
+  description = """Intern with the Alexa Machine Learning team."""
+#  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+#  * Analysing
+#  * Modelling
+#  * Deploying
+ 
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Project Manager"
+  company = "Wicresoft (Microsoft Contractor)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing"
+  date_start = "2012-06-01"
+  date_end = "2015-05-01"
+  description = """PM and Language Engineer for Cortana Language Generation and Text-to-Speech teams."""
 
 +++

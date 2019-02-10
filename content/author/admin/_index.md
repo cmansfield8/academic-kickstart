@@ -1,45 +1,46 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Courtney Mansfield"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "PhD Candidate in Computational Linguistics"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University of Washington Department of Linguistics", url = "https://linguistics.washington.edu" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
+interests = [ 
   "Computational Linguistics",
-  "Information Retrieval"
+  "Spoken Language Dialog",
+  "Natural Language Processing",
+  "Phonetics"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computational Linguistics"
+  institution = "University of Washington"
+  year = 2020 
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MA in Linguistics"
+  institution = "University of Washington"
+  year = 2018
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Linguistics"
+  institution = "Ohio State University"
+  year = 2011
 
 # Social/Academic Networking
 #
@@ -62,22 +63,12 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:coman8@uw.edu"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
+  icon = "linkedin"
   icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://linkedin.com/in/coman8/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -88,6 +79,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a PhD Student in Computational Linguistics at the University of Washington and a member of the <a href="https://wiki.ling.washington.edu/bin/view.cgi">Computational Linguistics</a> and <a href="http://www.depts.washington.edu/phonlab/">Phonetics lab groups</a>.  My advisor is <a href="https://faculty.washington.edu/levow/">Gina Levow.</a>  My research includes using language models to examine statistical anomalies in speech and modeling human transcription errors to learn more about human perception and improve the transcription process.  I've recently worked with Amazon's Alexa Machine Learning team to apply deep learning methods to speech recognition. Thanks for stopping by!   
