@@ -22,7 +22,7 @@ publication = "NAACL WiNLP Workshop"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Coming soon"
+abstract = ""
 abstract_short = ""
 
 # Is this a featured publication? (true/false)

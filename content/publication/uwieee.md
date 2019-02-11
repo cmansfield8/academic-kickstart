@@ -23,7 +23,7 @@ publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "An introduction to the UW/NU Corpus Version 2.0 which contains recordings of Pacific Northwest and Northern Cities speakers reading a subset of the IEEE sentences."
-abstract_short = ""
+abstract_short = "An introduction to the UW/NU Corpus."
 
 # Is this a featured publication? (true/false)
 featured = false
