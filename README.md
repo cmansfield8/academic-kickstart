@@ -1,3 +1,3 @@
 # Academic Kickstart
 
-My personal website (under construction) generated from [Academic and Hugo](https://sourcethemes.com/academic/).
+My [personal website](http://students.washingotn.edu/coman8/) generated from [Academic and Hugo](https://sourcethemes.com/academic/).
